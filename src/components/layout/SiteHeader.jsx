@@ -18,7 +18,7 @@ export default function SiteHeader({ onToggleTheme }) {
         <div className="flex justify-between items-center h-20">
           <NavLink to="/" className="w-[3.5rem]" aria-label="Mosalam Home">
             <img
-              src="/images/logo.jpg"
+              src="./images/logo.jpg"
               alt="logo"
               className="w-full h-full rounded-[4px]"
             />

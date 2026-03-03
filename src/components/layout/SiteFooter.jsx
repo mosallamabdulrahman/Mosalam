@@ -10,7 +10,7 @@ export default function SiteFooter() {
             <div className="flex items-center gap-2">
               <div className="w-[3.5rem]">
                 <img
-                  src="/images/logo.jpg"
+                  src="./images/logo.jpg"
                   alt="Mosalam logo"
                   className="w-full h-full rounded-[4px]"
                   loading="lazy"
